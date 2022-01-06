@@ -39,3 +39,33 @@ section{
     padding:10px 30px;
     border-radius: 8px;
 }
+.h1{
+    text-align: center;
+    margin-left: 200px;
+}
+.box{
+    margin-left: 25px;
+    width: 25%;
+    padding: 6%;
+    
+    
+    
+}
+.box-img{
+    padding-bottom: 120px;
+    height: 35px;
+    width: 175px;
+}
+.box-img img{
+    width: 100%;
+}
+#img1{
+    background-size: 80%;
+    background-color: rgba(245, 244, 155, 0.637);
+}
+#img2{
+    background-color: rgba(245, 164, 155, 0.637);
+}
+#img3{
+    background-color: rgba(164, 155, 245, 0.637);
+}
