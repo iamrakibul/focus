@@ -62,12 +62,15 @@ section{
 #img1{
     background-size: 80%;
     background-color: rgba(245, 244, 155, 0.637);
+    border-radius: 40px;
 }
 #img2{
     background-color: rgba(245, 164, 155, 0.637);
+    border-radius: 40px;
 }
 #img3{
     background-color: rgba(164, 155, 245, 0.637);
+    border-radius: 40px;
 }
 .half{
     width: 50%;
@@ -85,4 +88,35 @@ section{
 .half1 img{
     width: 70%;
     padding-right: 150px;
+}
+.about{
+    width: 50%;
+    padding-left: 300px;
+    padding-bottom: 5px;
+    background-color: rgb(252, 177, 239);
+}
+.about img{
+    width: 70%;
+    padding: 30px;
+    border-radius: 80px;
+
+}
+li{
+    width: 785%;
+    text-decoration: none;
+    font-size: 40px;
+
+}
+.about-me{
+    padding: 0;
+    margin: 0;
+}
+.footer{
+    text-align: center;
+    background-color: rgb(15, 15, 15);
+    color: white;
+    padding: 20px;
+}
+#footer{
+    color: chartreuse;
 }
