@@ -69,3 +69,20 @@ section{
 #img3{
     background-color: rgba(164, 155, 245, 0.637);
 }
+.half{
+    width: 50%;
+    padding-right: 150px;
+}
+.half img{
+    width: 70%;
+    padding-left: 250px;
+}
+.half1{
+    width: 50%;
+    padding-left: 250px;
+    
+}
+.half1 img{
+    width: 70%;
+    padding-right: 150px;
+}
